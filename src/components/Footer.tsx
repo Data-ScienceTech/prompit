@@ -12,7 +12,7 @@ export const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
             <div className="text-2xl font-bold text-purple-400 mb-4">
-              [CLIENT_NAME]
+              
             </div>
             <p className="text-purple-400 mb-4 max-w-md">
               Transform your business with our innovative solutions. Streamline operations, boost productivity, and drive growth.
@@ -52,7 +52,7 @@ export const Footer = () => {
         </div>
         
         <div className="border-t border-purple-800 mt-8 pt-8 text-center text-purple-400">
-          <p>&copy; {currentYear} [CLIENT_NAME]. {t('footer.rights')}</p>
+          <p>&copy; {currentYear} . {t('footer.rights')}</p>
           <p className="text-sm mt-2">
             Website created by{' '}
             <a 

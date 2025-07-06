@@ -99,6 +99,7 @@
     "reject_all": "Reject All"
   },
   "business": {
-    "tagline": "Where innovation meets enterprise excellence, and automation drives growth."
+    "tagline": "Where innovation meets enterprise excellence, and automation drives growth.",
+    "industry": "Enterprise Software & SaaS"
   }
 }
